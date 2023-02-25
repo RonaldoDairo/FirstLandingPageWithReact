@@ -10,3 +10,24 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.navheader{
+    margin: 40px 200px 20px 200px ;
+}
+.contenido{
+    margin: 0px 200px 0 200px ;
+    background-color: gainsboro;
+}
+.text{
+    font-size: 50px;
+}
+.btncontenido{
+    margin-bottom: 50px;
+    
+}
+.cards{
+    margin: 20px 200px 20px 200px ;
+}
+.footer{
+    height: 50px;
+    padding: 20px 0 20px 0;
+}
